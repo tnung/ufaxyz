@@ -1,0 +1,14 @@
+{
+  "name": "xyz name",
+  "theme": "syntax",
+  "version": "1.226.2",
+  "description": "แทงบอลสด  เป็นยังไง  ทำไมจึงมี ผู้ใช้งานมากมาย [pg slot เครดิตฟรี 100 ล่าสุด']",
+  "keywords": [
+    "เครดิตฟรี","สมัครsuperslotเครดิตฟรี","pg slot เว็บตรง เครดิตฟรี"
+  ],
+  "repository": "https://github.com/ufabet191/ufabet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
